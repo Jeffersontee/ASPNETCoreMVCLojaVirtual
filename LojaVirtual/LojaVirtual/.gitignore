@@ -131,6 +131,9 @@ ClientBin/
 modulesbin/
 tempbin/
 
+appsettings.*
+
+
 # EPiServer Site file (VPP)
 AppData/
 
@@ -185,6 +188,9 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+bin/
+obj/
+node_modules/
 
 # Mac desktop service store files
 .DS_Store
