@@ -105,3 +105,7 @@ C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\De
 C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\CadastroCliente.cshtml.g.cs
+C:\Projetos_VisualStudio\ASPNETCoreMVCLojaVirtual\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\CarrinhoCompras.cshtml.g.cs
